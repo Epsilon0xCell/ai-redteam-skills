@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<rect width="1200" height="300" fill="#0d1117"/>
+<text x="60" y="120" font-family="monospace" font-size="52" fill="#f85149">ai-redteam-skills</text>
+<text x="60" y="180" font-family="monospace" font-size="28" fill="#c9d1d9">Map the surface. Test the model. Prove it or kill it. Ship the detection.</text>
+<text x="60" y="240" font-family="monospace" font-size="22" fill="#8b949e">Four SKILL.md skills for authorised AI and application red teaming.</text>
+</svg>
