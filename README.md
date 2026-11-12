@@ -1,5 +1,7 @@
 # ai-redteam-skills
 
+[![Release](https://img.shields.io/github/v/release/Epsilon0xCell/ai-redteam-skills)](https://github.com/Epsilon0xCell/ai-redteam-skills/releases) [![License](https://img.shields.io/github/license/Epsilon0xCell/ai-redteam-skills)](LICENSE) [![Stars](https://img.shields.io/github/stars/Epsilon0xCell/ai-redteam-skills)](https://github.com/Epsilon0xCell/ai-redteam-skills/stargazers)
+
 ![Map the surface. Test the model. Prove it or kill it. Ship the detection.](assets/banner.svg)
 
 **Your agent can run the tools. These skills make it run a red-team engagement like the finding has to survive review.**
@@ -21,6 +23,16 @@ That copies the four skills into `~/.claude/skills`. Set `SKILLS_DIR` to install
 Then, at the start of an engagement:
 
 > Run target-recon on this lab target and give me the surface ledger with scored leads.
+
+## Contents
+
+- [Install](#install)
+- [What is in the pack](#what-is-in-the-pack)
+- [The worked example](#the-worked-example)
+- [Why the verification skill is the centre](#why-the-verification-skill-is-the-centre)
+- [Honest limits](#honest-limits)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## What is in the pack
 
